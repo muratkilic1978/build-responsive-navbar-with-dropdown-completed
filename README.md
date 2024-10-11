@@ -1,3 +1,3 @@
 # Responsive Navber with Dropdown
 
-Sample code.
+Sample code for a fixed responsive top bar menu.
